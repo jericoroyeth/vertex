@@ -6,7 +6,7 @@ Modern, responsive websites and landing pages built with clean code and attentio
 
 ## Featured Project
 
-### ⚡ Vertex — AI Productivity Startup Landing Page
+### ⚡ Vertex - AI Productivity Startup Landing Page
 
 A bold, dark-mode landing page for a fictional AI productivity tool. Designed to showcase what modern tech companies need: clean aesthetics, smooth interactions, and professional presentation.
 
