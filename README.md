@@ -1,24 +1,76 @@
 # Web Development Portfolio
 
-A responsive, modern landing page showcasing front-end development skills.
+Modern, responsive websites and landing pages built with clean code and attention to detail.
 
-## Project
+---
 
-### Vertex
-A bold, dark-mode landing page for a fictional AI productivity startup.
-- Modern tech aesthetic
-- Fully responsive design
-- Smooth animations and interactions
-- Pure HTML, CSS, JavaScript (no frameworks)
+## Featured Project
 
-**[Live Demo](https://jericoroyeth.github.io/portfolio/)**
+### ⚡ Vertex — AI Productivity Startup Landing Page
 
-## Skills Demonstrated
-- Responsive Web Design
+A bold, dark-mode landing page for a fictional AI productivity tool. Designed to showcase what modern tech companies need: clean aesthetics, smooth interactions, and professional presentation.
+
+**[🔗 Live Demo](https://jericoroyeth.github.io/portfolio/vertex.html)**
+
+![Vertex Preview](vertex-preview.png)
+
+#### Features
+- 🌙 Dark mode tech aesthetic
+- 📱 Fully responsive (mobile, tablet, desktop)
+- ✨ Smooth CSS animations and transitions
+- 💰 Complete pricing section with tiered plans
+- 💬 Testimonials and social proof sections
+- ⚡ Fast-loading, optimized performance
+- 🎨 Modern gradients and visual effects
+
+#### Built With
+- HTML5
+- CSS3 (Custom Properties, Flexbox, Grid)
+- Vanilla JavaScript
+- No frameworks — pure, clean code
+
+---
+
+## Skills
+
+**Languages & Technologies**
 - HTML5 / CSS3 / JavaScript
-- CSS Animations & Transitions
-- Mobile-First Development
-- Clean, Maintainable Code
+- Progressive Web Apps (PWA)
+- Service Workers
+- Web Audio API
 
-## Contact
-Open to freelance opportunities. Reach out on [Upwork](https://www.upwork.com/freelancers/jericoroyeth).
+**Specializations**
+- Responsive Web Design
+- Landing Page Development
+- Website Performance Optimization
+- Offline-First Web Applications
+- Cross-Browser Compatibility
+
+**Tools**
+- Git / GitHub
+- VS Code
+- Chrome DevTools
+- Lighthouse
+
+---
+
+## What I Build
+
+✅ Modern landing pages that convert  
+✅ Responsive websites for any device  
+✅ Progressive Web Apps with offline support  
+✅ Fast, optimized web experiences  
+
+---
+
+## Let's Work Together
+
+I'm available for freelance projects. If you need a professional web presence that makes an impact, let's talk.
+
+**Find me on:**
+- [Upwork](https://www.upwork.com/freelancers/jericoroyeth)
+- [GitHub](https://github.com/jericoroyeth)
+
+---
+
+*Built with care. Code with purpose.*
