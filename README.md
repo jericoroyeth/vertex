@@ -12,7 +12,7 @@ A bold, dark-mode landing page for a fictional AI productivity tool. Designed to
 
 **[🔗 Live Demo](https://jericoroyeth.github.io/portfolio/vertex.html)**
 
-![Vertex Preview]()
+![Vertex Preview](vertex-preview.png)
 
 #### Features
 - 🌙 Dark mode tech aesthetic
