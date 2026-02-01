@@ -10,7 +10,7 @@ Modern, responsive websites and landing pages built with clean code and attentio
 
 A bold, dark-mode landing page for a fictional AI productivity tool. Designed to showcase what modern tech companies need: clean aesthetics, smooth interactions, and professional presentation.
 
-**[🔗 Live Demo](https://jericoroyeth.github.io/portfolio/vertex.html)**
+**[🔗 Live Demo](https://jericoroyeth.github.io/portfolio/)**
 
 ![Vertex Preview](vertex-preview.png)
 
