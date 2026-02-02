@@ -27,7 +27,7 @@ A bold, dark-mode landing page for a fictional AI productivity tool. Designed to
 - HTML5
 - CSS3 (Custom Properties, Flexbox, Grid)
 - Vanilla JavaScript
-- No frameworks — pure, clean code
+- No frameworks - pure, clean code
 
 ---
 
